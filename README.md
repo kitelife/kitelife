@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 你好 👋
 
 <!--
 **kitelife/kitelife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 爱读书，喜好编程
+
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/youngsterxyf)
