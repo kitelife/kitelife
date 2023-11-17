@@ -4,7 +4,7 @@
 
 ### 拼多多 | 【商业化方向】广告服务端后台开发 | Base 上海
 
-**简历内推请发至 youngsterxyf@qq.com**
+**简历请发至 youngsterxyf@qq.com**，内推通道简历通过率更高！
 
 #### 岗位职责
 
